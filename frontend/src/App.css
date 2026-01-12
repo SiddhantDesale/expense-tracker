@@ -1,0 +1,43 @@
+body {
+  background: #eef2f7;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.card,
+.summary {
+  background: white;
+  padding: 16px;
+  margin: 16px 0;
+  border-radius: 8px;
+}
+
+.summary {
+  text-align: center;
+  background: #4f46e5;
+  color: white;
+}
+
+input {
+  width: 100%;
+  margin: 6px 0;
+  padding: 8px;
+}
+
+button {
+  background: #4f46e5;
+  color: white;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  margin: 6px 0;
+}
