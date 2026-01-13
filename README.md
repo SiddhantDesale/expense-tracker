@@ -28,3 +28,13 @@ A full-stack Expense Tracker application built using Spring Boot and React with 
 1. Run backend on port 8080
 2. Start frontend using `npm start`
 3. Open http://localhost:3000
+
+## Screenshots
+
+### Expense Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Add Expense
+
+![Add Expense](screenshots/add-expense.png)

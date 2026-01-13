@@ -4,7 +4,7 @@ function SummaryCard({ expenses }) {
   return (
     <div className="summary">
       <h3>Total Expenses</h3>
-      <p>₹ {total}</p>
+      <p>₹ {Math.round(total)}</p>
     </div>
   );
 }
